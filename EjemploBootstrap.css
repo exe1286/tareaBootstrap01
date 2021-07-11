@@ -1,0 +1,6 @@
+.base {
+  background-color: #f8f9fa;
+}
+.container-fluid {
+  box-sizing: border-box;
+}
